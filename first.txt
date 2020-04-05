@@ -3,3 +3,6 @@ This is a first git file.
 Convert from Japanese to English for easy access...
 
 add one more line...
+
+git diff
+test lines
