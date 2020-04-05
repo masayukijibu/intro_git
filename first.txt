@@ -1,2 +1,4 @@
-はじめてのGitファイル。
+This is a first git file.
+
+Convert from Japanese to English for easy access...
 
